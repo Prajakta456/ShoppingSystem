@@ -1,16 +1,6 @@
 /*
-Group No. 04
-MINI-PROJECT:
-
+Group Project
 Title: Implementing Interactive On-line Shopping System.
-
-Members:
-
-1) Prajakta R. Deokule (2330)
-2) Shriharsha S. Dhobe (2334)
-3) Aditi A. Dhumal (2335)
-4) Kshitija S. Gadade (2338)
-
 */
 
 #include<iostream>
