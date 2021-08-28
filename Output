@@ -1,0 +1,425 @@
+/*
+******OUTPUT******:
+*********Welcome to Online Shopping System!**********
+1.Login as an Admin
+2.Login as a Customer
+3.Exit
+Enter choice:1
+Enter password to login as admin:123helloproject
+You have logged in as admin
+***********Welcome to Online Shopping As Admin!***********
+You can add items to the list as Admin:
+Enter product Name to add to the list:Nachos
+Enter quantity of product to add to the list:20
+Enter price of 1 quantity of product to add to the list:30
+Nachos  57  20  30
+Node added Successfully
+Login again??:1 for yes1
+*********Welcome to Online Shopping System!**********
+1.Login as an Admin
+2.Login as a Customer
+3.Exit
+Enter choice:2
+Enter e-mail Id: abc@gmail.com
+Enter password: abc123
+Account doesn't exist
+Please sign up!Please SignUp:
+Enter your name: Riya
+Enter your email id: riyagmailcom
+Enter your password: riya123
+Confirm your password: riya123
+Enter your address: Pune
+Please Enter Valid Email-Id! Try Signing in Again!
+Please SignUp:
+Enter your name: Riya
+Enter your email id: riya@gmailcom
+Enter your password: riya123
+Confirm your password: riya123
+Enter your address: Pune
+Please Enter Valid Email-Id! Try Signing in Again!
+Please SignUp:
+Enter your name: Riya
+Enter your email id: riyagmail.com
+Enter your password: riya123
+Confirm your password: riya123
+Enter your address: Pune
+Please Enter Valid Email-Id! Try Signing in Again!
+Please SignUp:
+Enter your name: Riya
+Enter your email id: riya@gmail.com
+Enter your password: riya123
+Confirm your password: riya12
+Enter your address: Pune
+Passwords do not match. Try Signing in Again!
+Please SignUp:
+Enter your name: Riya
+Enter your email id: riya.05@gmail.com
+Enter your password: riya123
+Confirm your password: riya123
+Enter your address: Kothrud,Pune
+Account Created Successfully!
+Hello! Riya
+***********Welcome to Online Shopping As a Customer!***********
+Select the category of goods that you want to purchase:
+1.Medicines
+2.Daily need items
+3.Grocery Items
+4.Clothing Items
+5.Electronic items
+***Enter your choice:****
+1
+Items in List are:
+|___________________|____________________________________________|________________________|
+|Product Id:1       |Product Name:Crocin Tablet                  |Product Price:20        |
+|___________________|____________________________________________|________________________|
+|Product Id:2       |Product Name:Paracetamol Tablet             |Product Price:40        |
+|___________________|____________________________________________|________________________|
+|Product Id:3       |Product Name:Azithral 500 Tablet            |Product Price:50        |
+|___________________|____________________________________________|________________________|
+|Product Id:4       |Product Name:Dolo Tablet                    |Product Price:30        |
+|___________________|____________________________________________|________________________|
+|Product Id:5       |Product Name:Aspirin Tablet                 |Product Price:15        |
+|___________________|____________________________________________|________________________|
+|Product Id:6       |Product Name:Alex Syrup(100ml bottle)       |Product Price:100       |
+|___________________|____________________________________________|________________________|
+|Product Id:7       |Product Name:Azee(500mg) Tablet             |Product Price:25        |
+|___________________|____________________________________________|________________________|
+|Product Id:8       |Product Name:ALlegra-M Tablet               |Product Price:20        |
+|___________________|____________________________________________|________________________|
+|Product Id:9       |Product Name:Ascoril D Plus Syrup           |Product Price:100       |
+|___________________|____________________________________________|________________________|
+|Product Id:10      |Product Name:Azax 500 Tablet                |Product Price:23        |
+|___________________|____________________________________________|________________________|
+Enter the product Id of the item to buy it:11
+Invalid choice try again!
+Do you want to continue in the same section of goods? press 1 for yes:
+1
+Enter the product Id of the item to buy it:6
+Enter Quantity:
+1
+Item added to cart!
+Items in Cart are:
+-------------------------------------------|--------------------|-------------------|-------------------|
+1. Product Name: Alex Syrup(100ml bottle)  |Product ID: 6       | Product Price: 100 |Product quantity:1        |
+-------------------------------------------|--------------------|-------------------|-------------------|
+Do you want to continue adding items to cart? press y for yes:
+y
+***********Welcome to Online Shopping As a Customer!***********
+Select the category of goods that you want to purchase:
+1.Medicines
+2.Daily need items
+3.Grocery Items
+4.Clothing Items
+5.Electronic items
+***Enter your choice:****
+2
+Items in List are:
+|___________________|____________________________________________|________________________|
+|Product Id:11      |Product Name:Rice (1 Kg)                    |Product Price:38        |
+|___________________|____________________________________________|________________________|
+|Product Id:12      |Product Name:Wheat flour(1 Kg)              |Product Price:50        |
+|___________________|____________________________________________|________________________|
+|Product Id:13      |Product Name:Moong Dal(1 Kg)                |Product Price:70        |
+|___________________|____________________________________________|________________________|
+|Product Id:14      |Product Name:Sugar(1 Kg)                    |Product Price:30        |
+|___________________|____________________________________________|________________________|
+|Product Id:15      |Product Name:Coffee                         |Product Price:20        |
+|___________________|____________________________________________|________________________|
+|Product Id:16      |Product Name:Peanut Oil(1 litre)            |Product Price:100       |
+|___________________|____________________________________________|________________________|
+|Product Id:17      |Product Name:Tomato Ketchup(1)              |Product Price:40        |
+|___________________|____________________________________________|________________________|
+|Product Id:18      |Product Name:Detergent (1 Kg)               |Product Price:50        |
+|___________________|____________________________________________|________________________|
+|Product Id:19      |Product Name:Room Freshener                 |Product Price:70        |
+|___________________|____________________________________________|________________________|
+|Product Id:20      |Product Name:floor Cleaner(1)               |Product Price:60        |
+|___________________|____________________________________________|________________________|
+Enter the product Id of the item to buy it:19
+Enter Quantity:
+2
+Item added to cart!
+Items in Cart are:
+-------------------------------------------|--------------------|-------------------|-------------------|
+1. Product Name: Alex Syrup(100ml bottle)  |Product ID: 6       | Product Price: 100 |Product quantity:1        |
+-------------------------------------------|--------------------|-------------------|-------------------|
+2. Product Name: Room Freshener            |Product ID: 19      | Product Price: 70 |Product quantity:2 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+Do you want to continue adding items to cart? press y for yes:
+y
+***********Welcome to Online Shopping As a Customer!***********
+Select the category of goods that you want to purchase:
+1.Medicines
+2.Daily need items
+3.Grocery Items
+4.Clothing Items
+5.Electronic items
+***Enter your choice:****
+3
+Items in List are:
+|___________________|____________________________________________|________________________|
+|Product Id:21      |Product Name:Onions(1 Kg)                   |Product Price:30        |
+|___________________|____________________________________________|________________________|
+|Product Id:22      |Product Name:Tomatoes(1 Kg)                 |Product Price:12        |
+|___________________|____________________________________________|________________________|
+|Product Id:23      |Product Name:Garlic(1 Kg)                   |Product Price:80        |
+|___________________|____________________________________________|________________________|
+|Product Id:24      |Product Name:Ginger(1 Kg)                   |Product Price:110       |
+|___________________|____________________________________________|________________________|
+|Product Id:25      |Product Name:Spinach (1 Bunch)              |Product Price:20        |
+|___________________|____________________________________________|________________________|
+|Product Id:26      |Product Name:Potato(1 Kg)                   |Product Price:35        |
+|___________________|____________________________________________|________________________|
+|Product Id:27      |Product Name:Double Beans(1 Kg)             |Product Price:55        |
+|___________________|____________________________________________|________________________|
+|Product Id:28      |Product Name:Coriander(1 Bunch)             |Product Price:20        |
+|___________________|____________________________________________|________________________|
+|Product Id:29      |Product Name:Sweet Lime(i Kg)               |Product Price:40        |
+|___________________|____________________________________________|________________________|
+|Product Id:30      |Product Name:Apple (1 Kg)                   |Product Price:90        |
+|___________________|____________________________________________|________________________|
+|Product Id:31      |Product Name:Banana (1 Kg)                  |Product Price:100       |
+|___________________|____________________________________________|________________________|
+|Product Id:32      |Product Name:Mango-Alphonso(1 Kg)           |Product Price:100       |
+|___________________|____________________________________________|________________________|
+|Product Id:33      |Product Name:Milk (1 Ltr)                   |Product Price:50        |
+|___________________|____________________________________________|________________________|
+|Product Id:34      |Product Name:Cheese (1 Packet)              |Product Price:70        |
+|___________________|____________________________________________|________________________|
+|Product Id:35      |Product Name:Yogurt (1)                     |Product Price:50        |
+|___________________|____________________________________________|________________________|
+|Product Id:36      |Product Name:Paneer(1 Pack)                 |Product Price:350       |
+|___________________|____________________________________________|________________________|
+Enter the product Id of the item to buy it:
+34
+Enter Quantity:
+3
+Item added to cart!
+Items in Cart are:
+-------------------------------------------|--------------------|-------------------|-------------------|
+1. Product Name: Alex Syrup(100ml bottle)  |Product ID: 6       | Product Price: 100 |Product quantity:1        |
+-------------------------------------------|--------------------|-------------------|-------------------|
+2. Product Name: Room Freshener            |Product ID: 19      | Product Price: 70 |Product quantity:2 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+3. Product Name: Cheese (1 Packet)         |Product ID: 34      | Product Price: 70 |Product quantity:3 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+Do you want to continue adding items to cart? press y for yes:
+y
+***********Welcome to Online Shopping As a Customer!***********
+Select the category of goods that you want to purchase:
+1.Medicines
+2.Daily need items
+3.Grocery Items
+4.Clothing Items
+5.Electronic items
+***Enter your choice:****
+4
+Items in List are:
+|___________________|____________________________________________|________________________|
+|Product Id:37      |Product Name:Polo T-shirt                   |Product Price:500       |
+|___________________|____________________________________________|________________________|
+|Product Id:38      |Product Name:Denim Jeans                    |Product Price:2000      |
+|___________________|____________________________________________|________________________|
+|Product Id:39      |Product Name:Anklets (1pair)                |Product Price:300       |
+|___________________|____________________________________________|________________________|
+|Product Id:40      |Product Name:Sunglasses                     |Product Price:3000      |
+|___________________|____________________________________________|________________________|
+|Product Id:41      |Product Name:Watch                          |Product Price:2500      |
+|___________________|____________________________________________|________________________|
+|Product Id:42      |Product Name:Wallet                         |Product Price:600       |
+|___________________|____________________________________________|________________________|
+|Product Id:43      |Product Name:Earrings(1pair)                |Product Price:200       |
+|___________________|____________________________________________|________________________|
+|Product Id:44      |Product Name:Shoes(1pair)                   |Product Price:3500      |
+|___________________|____________________________________________|________________________|
+|Product Id:45      |Product Name:Umbrella                       |Product Price:200       |
+|___________________|____________________________________________|________________________|
+Enter the product Id of the item to buy it:41
+Enter Quantity:
+1
+Item added to cart!
+Items in Cart are:
+-------------------------------------------|--------------------|-------------------|-------------------|
+1. Product Name: Alex Syrup(100ml bottle)  |Product ID: 6       | Product Price: 100 |Product quantity:1        |
+-------------------------------------------|--------------------|-------------------|-------------------|
+2. Product Name: Room Freshener            |Product ID: 19      | Product Price: 70 |Product quantity:2 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+3. Product Name: Cheese (1 Packet)         |Product ID: 34      | Product Price: 70 |Product quantity:3 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+4. Product Name: Watch                      |Product ID: 41     | Product Price: 2500 |Product quantity:1       |
+-------------------------------------------|--------------------|-------------------|-------------------|
+Do you want to continue adding items to cart? press y for yes:
+y
+***********Welcome to Online Shopping As a Customer!***********
+Select the category of goods that you want to purchase:
+1.Medicines
+2.Daily need items
+3.Grocery Items
+4.Clothing Items
+5.Electronic items
+***Enter your choice:****
+5
+Items in List are:
+|___________________|____________________________________________|________________________|
+|Product Id:46      |Product Name:Headphones                     |Product Price:500       |
+|___________________|____________________________________________|________________________|
+|Product Id:47      |Product Name:Telivision                     |Product Price:20000     |
+|___________________|____________________________________________|________________________|
+|Product Id:48      |Product Name:Lenovo Laptop(Inspiron 14)     |Product Price:53000     |
+|___________________|____________________________________________|________________________|
+|Product Id:49      |Product Name:One plus Nord Blue Marble      |Product Price:29900     |
+|___________________|____________________________________________|________________________|
+|Product Id:50      |Product Name:Samsung Galaxy A51             |Product Price:19800     |
+|___________________|____________________________________________|________________________|
+|Product Id:51      |Product Name:Apple iPhone 11 Pro            |Product Price:78000     |
+|___________________|____________________________________________|________________________|
+|Product Id:52      |Product Name:HP laptop core i3              |Product Price:42000     |
+|___________________|____________________________________________|________________________|
+|Product Id:53      |Product Name:HP laptop core i5              |Product Price:54000     |
+|___________________|____________________________________________|________________________|
+|Product Id:54      |Product Name:Inspiron 14 Laptop Dell        |Product Price:58000     |
+|___________________|____________________________________________|________________________|
+|Product Id:55      |Product Name:One plus Nord Blue Marble      |Product Price:29900     |
+|___________________|____________________________________________|________________________|
+|Product Id:56      |Product Name:Ceiling fan                    |Product Price:5000      |
+|___________________|____________________________________________|________________________|
+Enter the product Id of the item to buy it:46
+Enter Quantity:
+2
+Item added to cart!
+Items in Cart are:
+-------------------------------------------|--------------------|-------------------|-------------------|
+1. Product Name: Alex Syrup(100ml bottle)  |Product ID: 6       | Product Price: 100 |Product quantity:1        |
+-------------------------------------------|--------------------|-------------------|-------------------|
+2. Product Name: Room Freshener            |Product ID: 19      | Product Price: 70 |Product quantity:2 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+3. Product Name: Cheese (1 Packet)         |Product ID: 34      | Product Price: 70 |Product quantity:3 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+4. Product Name: Watch                      |Product ID: 41     | Product Price: 2500 |Product quantity:1       |
+-------------------------------------------|--------------------|-------------------|-------------------|
+5. Product Name: Headphones                 |Product ID: 46     | Product Price: 500 |Product quantity:2        |
+-------------------------------------------|--------------------|-------------------|-------------------|
+Do you want to continue adding items to cart? press y for yes:
+n
+Do you want to delete any item from the cart?
+Press 0 to delete any item from cart:
+0
+Enter product Id to delete product: 41
+Item successfully deleted
+Item qt incremented in menu list
+Do you want to continue shopping?
+Press 1 for yes:2
+Details of Customer are:
+Name: Riya
+Email-Id: riya.05@gmail.com
+Address: Kothrud,Pune
+ ***BILLING***:
+Items in Cart are:
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|1. Product Name: Alex Syrup(100ml bottle)  |Product ID: 6       | Product Price: 100 |Product quantity:1 |Total cost:100
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|2. Product Name: Room Freshener            |Product ID: 19      | Product Price: 70 |Product quantity:2 |Total cost:140
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|3. Product Name: Cheese (1 Packet)         |Product ID: 34      | Product Price: 70 |Product quantity:3 |Total cost:210
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|4. Product Name: Headphones                 |Product ID: 46     | Product Price: 500 |Product quantity:2 |Total cost:1000
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|---------------------------------|
+|  Total Amount: 1450              |
+|---------------------------------|
+Mode of Payment: Pay on Delivery.
+Your Order Will be Delivered to you by: 20/5
+Thank you for visiting!!
+Exit
+Login again??:1 for yes1
+*********Welcome to Online Shopping System!**********
+1.Login as an Admin
+2.Login as a Customer
+3.Exit
+Enter choice:2
+Enter e-mail Id: riya.05@gmail.com
+Enter password: riya123
+Welcome! Successfully logged in
+Riya
+***********Welcome to Online Shopping As a Customer!***********
+Select the category of goods that you want to purchase:
+1.Medicines
+2.Daily need items
+3.Grocery Items
+4.Clothing Items
+5.Electronic items
+***Enter your choice:****
+1
+Items in List are:
+|___________________|____________________________________________|________________________|
+|Product Id:1       |Product Name:Crocin Tablet                  |Product Price:20        |
+|___________________|____________________________________________|________________________|
+|Product Id:2       |Product Name:Paracetamol Tablet             |Product Price:40        |
+|___________________|____________________________________________|________________________|
+|Product Id:3       |Product Name:Azithral 500 Tablet            |Product Price:50        |
+|___________________|____________________________________________|________________________|
+|Product Id:4       |Product Name:Dolo Tablet                    |Product Price:30        |
+|___________________|____________________________________________|________________________|
+|Product Id:5       |Product Name:Aspirin Tablet                 |Product Price:15        |
+|___________________|____________________________________________|________________________|
+|Product Id:6       |Product Name:Alex Syrup(100ml bottle)       |Product Price:100       |
+|___________________|____________________________________________|________________________|
+|Product Id:7       |Product Name:Azee(500mg) Tablet             |Product Price:25        |
+|___________________|____________________________________________|________________________|
+|Product Id:8       |Product Name:ALlegra-M Tablet               |Product Price:20        |
+|___________________|____________________________________________|________________________|
+|Product Id:9       |Product Name:Ascoril D Plus Syrup           |Product Price:100       |
+|___________________|____________________________________________|________________________|
+|Product Id:10      |Product Name:Azax 500 Tablet                |Product Price:23        |
+|___________________|____________________________________________|________________________|
+Enter the product Id of the item to buy it:4
+Enter Quantity:
+3
+Item added to cart!
+Items in Cart are:
+-------------------------------------------|--------------------|-------------------|-------------------|
+1. Product Name: Alex Syrup(100ml bottle)  |Product ID: 6       | Product Price: 100 |Product quantity:1        |
+-------------------------------------------|--------------------|-------------------|-------------------|
+2. Product Name: Room Freshener            |Product ID: 19      | Product Price: 70 |Product quantity:2 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+3. Product Name: Cheese (1 Packet)         |Product ID: 34      | Product Price: 70 |Product quantity:3 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+4. Product Name: Headphones                 |Product ID: 46     | Product Price: 500 |Product quantity:2        |
+-------------------------------------------|--------------------|-------------------|-------------------|
+5. Product Name: Dolo Tablet               |Product ID: 4       | Product Price: 30 |Product quantity:3 |
+-------------------------------------------|--------------------|-------------------|-------------------|
+Do you want to continue adding items to cart? press y for yes:
+n
+Do you want to delete any item from the cart?
+Press 0 to delete any item from cart:
+1
+Do you want to continue shopping?
+Press 1 for yes:2
+Details of Customer are:
+Name: Riya
+Email-Id: riya.05@gmail.com
+Address: Kothrud,Pune
+ ***BILLING***:
+Items in Cart are:
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|1. Product Name: Alex Syrup(100ml bottle)  |Product ID: 6       | Product Price: 100 |Product quantity:1 |Total cost:100
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|2. Product Name: Room Freshener            |Product ID: 19      | Product Price: 70 |Product quantity:2 |Total cost:140
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|3. Product Name: Cheese (1 Packet)         |Product ID: 34      | Product Price: 70 |Product quantity:3 |Total cost:210
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|4. Product Name: Headphones                 |Product ID: 46     | Product Price: 500 |Product quantity:2 |Total cost:1000
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|5. Product Name: Dolo Tablet               |Product ID: 4       | Product Price: 30 |Product quantity:3 |Total cost:90
+|-------------------------------------------|--------------------|-------------------|-------------------|----------------|
+|---------------------------------|
+|  Total Amount: 1540              |
+|---------------------------------|
+Mode of Payment: Pay on Delivery.
+Your Order Will be Delivered to you by: 20/5
+Thank you for visiting!!
+Exit
+Login again??:1 for yes0
+Process returned 0 (0x0)   execution time : 441.684 s
+Press any key to continue.
+*/
